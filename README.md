@@ -6,7 +6,7 @@ The project is incomplete due to the time constraints.
 
 The following notes were made as I was taking a brief for the project.
 
-** Notes **
+**Notes**
 
 How lots of different students - how did the class perform
 Green, Amber and Red. - A count of how many of each for the class.
