@@ -1,4 +1,10 @@
-School report
+## School Report
+
+This project was done as part of a review, which is essentially mock tech test which is done inside 1 hour. 
+
+The following notes were made as I was taking a brief for the project.
+
+
 How lots of different students - how did the class perform
 Green, Amber and Red. - A count of how many of each for the class.
 
@@ -18,7 +24,8 @@ Teacher makes a mistakes, teacher misspells a word, add to another category unco
 If color is spelled as lower case.
 
 
-INPUT   | OUTPUT
+| INPUT   | OUTPUT |
+|---------|--------|
 "Green" | "Green"
 "Amber" | "Amber"
 "Red"   | "Red"
