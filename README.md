@@ -1,6 +1,8 @@
 ## School Report
 
-This project was done as part of a review, which is essentially mock tech test which is done inside 1 hour. 
+This project was done as part of a review, which is essentially mock tech test done inside 1 hour. 
+
+The project is incomplete due to the time constraints.
 
 The following notes were made as I was taking a brief for the project.
 
