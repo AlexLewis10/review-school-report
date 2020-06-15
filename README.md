@@ -4,6 +4,7 @@ This project was done as part of a review, which is essentially mock tech test w
 
 The following notes were made as I was taking a brief for the project.
 
+** Notes **
 
 How lots of different students - how did the class perform
 Green, Amber and Red. - A count of how many of each for the class.
